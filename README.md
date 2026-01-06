@@ -1,12 +1,12 @@
 # Linear-Regression-from-Scratch-
 
-##Overview
+## Overview
 
 This project is a portfolio-focused Python application designed to demonstrate foundational machine learning and optimisation skills.
 It implements linear regression from scratch, allowing users to train a model, track loss over time, and make predictions while learning how gradient descent and feature scaling work.
 The project highlights core Python programming, model evaluation, and professional documentation practices.
 
-##Key Skills Demonstrated
+## Key Skills Demonstrated
 
 Python programming fundamentals
 
@@ -22,7 +22,7 @@ Gradient clipping for stable training
 
 Writing clear and professional documentation
 
-##Features
+## Features
 
 Pure Python implementation (no ML libraries)
 
@@ -40,11 +40,11 @@ Training progress tracking across epochs
 
 Final predictions and residual analysis
 
-##Tech Stack
+## Tech Stack
 
 Python
 
-##Sample Data
+## Sample Data
 
 A small dataset is included for demonstration purposes:
 ``` 
@@ -60,7 +60,8 @@ Easy debugging and validation
 
 Clear observation of convergence behaviour
 
-``` Installation
+## Installation
+``` 
 git clone https://github.com/nschulz883/linear-regression-from-scratch.git
 cd linear-regression-from-scratch
 
@@ -68,10 +69,10 @@ cd linear-regression-from-scratch
 (No external dependencies required)
 ``` 
 
-```  Usage
+## Usage
 
 After cloning the repository, run the script:
-
+``` 
 python linear_regression.py
 ``` 
 
